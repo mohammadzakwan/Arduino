@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../../../**",
+                "${workspaceFolder}/../../libraries/**",
+                "C:\\Users\\moham\\Documents\\GitHub\\Arduino\\libraries\\**",
+                "C:\\Users\\moham\\Documents\\Arduino\\libraries"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
